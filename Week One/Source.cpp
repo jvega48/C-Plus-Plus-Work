@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-	Week one homwork 
+	Week Two Homework 
 	By: Jose V.
 */
 void displayChar();
