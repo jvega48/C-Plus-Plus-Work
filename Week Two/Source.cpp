@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-	Week Two
+	Week Two Homework
 	By: Jose V.
 	TODO: Need to fix minor bug
 */
